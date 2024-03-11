@@ -21,7 +21,8 @@ Before running the project, ensure you have the following dependencies installed
 
 You can install these dependencies using pip:
 
->>>pip install opencv-python pandas numpy imutils
+    pip install opencv-python pandas numpy imutils
+
 
 
 ## Usage
@@ -34,12 +35,12 @@ You can install these dependencies using pip:
 
 4. **Run the script for image color detection**: Navigate to the project directory in your terminal or command prompt and run the script for image color detection using Python.
 
->>>python real_time_colour_detection.py
+        python real_time_colour_detection.py
 
 
 5. **Run the script for live video color detection**: Navigate to the project directory in your terminal or command prompt and run the script for live video color detection using Python.
 
->>> python live_video_color_detection.py
+        python live_video_color_detection.py
 
 
 6. **Interact with the application**: Click on a color within the displayed image or video frame. The application will display the color name and RGB values of the clicked color.
